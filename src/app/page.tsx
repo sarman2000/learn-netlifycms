@@ -8,7 +8,7 @@ export default function Home() {
           category="Electronics"
           title="Smartphone XYZ"
           description="This is a great smartphone with many features."
-          imageUrl="/outcome4.png" 
+          imageUrl="/images/outcome4.png" 
         />
       </main>
     </div>
